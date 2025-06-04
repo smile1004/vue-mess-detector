@@ -4,27 +4,6 @@ A comprehensive code analysis and quality assessment tool that provides actionab
 
 If you like this project, please consider giving it a star ⭐️
 
-## 👥 Core Team
-
-<table>
-  <tr>
-    <td align="center" style="border: none;">
-      <a href="https://github.com/rrd108">
-        <img src="https://github.com/rrd108.png?size=100" width="100px;" alt="rrd"/>
-        <br />
-        <sub><b>rrd</b></sub>
-      </a>
-    </td>
-    <td align="center" style="border: none;">
-      <a href="https://github.com/David-Pena">
-        <img src="https://github.com/David-Pena.png?size=100" width="100px;" alt="David-Pena"/>
-        <br />
-        <sub><b>David Pena</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
 ## ⬇️ Installation
 
 ```bash
